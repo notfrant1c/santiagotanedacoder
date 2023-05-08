@@ -1,5 +1,6 @@
 
-/* SIMULADOR INTERACTIVO
+/* SIMULADOR INTERACTIVO 
+PRE ENTREGA 1 FRIAS TANEDA SANTIAGO 
 Mediante prompt se selecciona un producto a comprar, se devuelve precio mediante console. 
 Se selecciona cuotas a pagar y tarjeta y devuelve el total a pagar y el total a  pagar de las cuotas */
 
