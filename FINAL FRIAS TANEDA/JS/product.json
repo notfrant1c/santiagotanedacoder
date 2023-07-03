@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "nombre":"Samsung Z Fold 3", 
+        "imagen":"imagenes/zfold3.jpg",
+        "descripcion":"Telefono Samsung Z Fold 3",
+        "categoria":"telefono",
+        "precio":"55000"
+
+    },
+    {   "id": 2,
+        "nombre":"Samsung A54", 
+        "imagen":"imagenes/a54.png",
+        "descripcion":"Telefono Samsung A54.",
+        "categoria":"telefono",
+        "precio":"200000"
+
+    },
+    {   "id": 3,
+        "nombre":"TV Samsung 4k 50'' Crystal UHD ", 
+        "imagen":"imagenes/tv Samsung-1.jpg",
+        "descripcion":"TV Samsung 4k.",
+        "categoria":"televisor",
+        "precio":"300000"
+
+    },
+    {
+        "id": 4,
+        "nombre":"TV Samsung 4k Curva", 
+        "imagen":"imagenes/tv Samsung-2.png",
+        "descripcion":"TV Samsung 4k curva UHD.",
+        "categoria":"televisor",
+        "precio": "250000"
+
+    },
+    {
+        "id": 5,
+        "nombre":"Auriculares inalámbricos Sony WH-CH710N Azul", 
+        "imagen":"imagenes/auris-sony-1.jpg",
+        "descripcion":"Auriculares bluetooth",
+        "categoria":"auriculares",
+        "precio": "75000"
+
+    },
+    {   
+        "id": 6,
+        "nombre":"Auriculares in-ear Inalambricos Sony Wf-1000xm4 Negro", 
+        "imagen":"imagenes/auris-sony-2.png",
+        "descripcion":"Auriculares bluetooth in-ear",
+        "categoria":"auriculares",
+        "precio": "60000"
+    }
+]
